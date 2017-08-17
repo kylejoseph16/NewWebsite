@@ -2,3 +2,10 @@ h1 {
   color: #152AE8;
   text-align: center;
 }
+
+.header{
+  background-image: url("file:///C:/Users/Kyle/Pictures/Saved%20Pictures/image1.JPG");
+  length: 1300px;
+  height: 600px;
+  background-position: center center;
+}
